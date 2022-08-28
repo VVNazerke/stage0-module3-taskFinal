@@ -14,7 +14,7 @@ public class DigitsSumCalculator {
 
         rem = rem - ondyk * 10;
 
-        int sum = rem + ondyk + zhuzdyk + myndyk;
+        System.out.println(rem + ondyk + zhuzdyk + myndyk);
 
     }
 }
